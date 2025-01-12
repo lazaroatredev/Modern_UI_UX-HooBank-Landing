@@ -2,9 +2,11 @@
 
 ## Tecnologías Utilizadas  
 
+- **Vite**: Herramienta de construcción que acelera el desarrollo y la implementación con su servidor de desarrollo optimizado.  
 - **React**: Para construir la interfaz de usuario de manera eficiente utilizando componentes reutilizables.  
-- **TypeScript**: Proporciona tipado estático a JavaScript, lo que mejora la calidad del código y facilita el desarrollo.  
+- **Javascript**: Proporciona la lógica y funcionalidad de la aplicación, permitiendo la manipulación del DOM y la gestión del estado de los componentes.  
 - **Tailwind CSS**: Utilizado para la estilización del sitio, que permite un diseño responsivo y moderno a través de clases utilitarias.  
+- **ESLint**: Asegura la calidad del código detectando errores y problemas de estilo en tiempo de desarrollo.  
 
 ## Características  
 
